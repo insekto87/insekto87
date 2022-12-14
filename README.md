@@ -1,6 +1,6 @@
 
 
-- Constantly learning, interested in Cybersec specially offensive side
+- Constantly learning
 - Currently working as Salesforce Developer
 
 ![](Django-plato.gif)
