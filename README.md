@@ -1,6 +1,6 @@
 
 
 - Constantly learning
-- Currently working as Salesforce Developer
+- Currently working as Salesforce Architect
 
 ![](Django-plato.gif)
